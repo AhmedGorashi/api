@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="12359d17-ff90-49b8-bee0-25df69b330c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +162,10 @@
       <option name="presentableId" value="Default" />
       <updated>1580310305174</updated>
       <workItem from="1580310366963" duration="2869000" />
-      <workItem from="1580317762154" duration="2774000" />
+      <workItem from="1580317762154" duration="3322000" />
+      <workItem from="1580374840411" duration="9178000" />
+      <workItem from="1580396491484" duration="5993000" />
+      <workItem from="1581598672188" duration="2628000" />
     </task>
     <task id="LOCAL-00001" summary="uploaded">
       <created>1580314761301</created>
@@ -172,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580314761301</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated">
+      <created>1580321644622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580321644622</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,16 +189,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="uploaded" />
-    <option name="LAST_COMMIT_MESSAGE" value="uploaded" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1580314741176">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1580321643153">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580314741176" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580317775067">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580321643153" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580396510778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580317775067" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580396510778" />
   </component>
 </project>
